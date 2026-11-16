@@ -19,8 +19,15 @@ jobs:
           github_user_name: JanJedvaj
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      # Pacman Animation (writes dist/pacman-contribution-graph.svg and -dark.svg)
+      - uses: abozanona/pacman-contribution-graph@v5.3.2
+        with:
+          github_user_name: JanJedvaj
+
+      # Publishes everything in dist/ to the output branch (replaces it each run)
+      - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
