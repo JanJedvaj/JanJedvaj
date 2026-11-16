@@ -12,15 +12,6 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk/svg-only@v3
-        id: snake-gif
-        with:
-          github_user_name: JanJedvaj
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       # Pacman Animation (writes dist/pacman-contribution-graph.svg and -dark.svg)
       - uses: abozanona/pacman-contribution-graph@v5.3.2
         with:

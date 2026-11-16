@@ -1,35 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jan 👋</h1>
 
-<!--
-**JanJedvaj/JanJedvaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<p align="center">
+  Software engineer at <a href="https://super.xyz">Super</a>, building web products with TypeScript, Vue and React.
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JanJedvaj/JanJedvaj/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JanJedvaj/JanJedvaj/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JanJedvaj/JanJedvaj/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <a href="https://portfolio-website-pearl-one-53.vercel.app">Portfolio</a>
+</p>
+
+## About me
+
+- 💼 Software engineer at [Super](https://super.xyz)
+- 🌐 Mostly frontend: Vue 3 at work, React and Next.js on the side
+- 🧰 Also at home in Java (Spring Boot, JavaFX), C# (.NET, EF Core) and Python
+- 🚀 Latest side project: a bilingual Next.js 16 site for a print shop
+
+## Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,vue,react,nextjs,tailwind,java,spring,cs,dotnet,python,flask,docker,mongodb,kafka,supabase,git&perline=8" alt="TypeScript, Vue, React, Next.js, Tailwind CSS, Java, Spring, C#, .NET, Python, Flask, Docker, MongoDB, Kafka, Supabase, Git" />
+</p>
+
+## Featured projects
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [TiskaraHladProject](https://github.com/JanJedvaj/TiskaraHladProject) | Croatian/English marketing and product catalogue site for a print shop, with an admin catalogue editor | Next.js, React, Tailwind, Supabase |
+| [InterferenceInjectionTool](https://github.com/JanJedvaj/InterferenceInjectionTool) | Upload RF signals, inject configurable interference, preview in real time and export | React, TypeScript, Flask |
+| [BirdProject](https://github.com/JanJedvaj/BirdProject) | Data pipeline that classifies bird species from audio and generates reports | Python, Kafka, MongoDB, MinIO, Docker |
+| [InternshipPortal](https://github.com/JanJedvaj/InternshipPortal) | Full-stack portal where companies post internships and students apply | C#, .NET |
+| [HockeyGameSpringBoot](https://github.com/JanJedvaj/HockeyGameSpringBoot) | 2D air hockey with socket multiplayer, RMI chat and replays | Java, JavaFX |
+
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JanJedvaj/JanJedvaj/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JanJedvaj/JanJedvaj/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JanJedvaj/JanJedvaj/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/JanJedvaj/JanJedvaj/output/pacman-contribution-graph.svg" />
 </picture>
