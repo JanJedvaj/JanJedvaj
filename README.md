@@ -8,7 +8,7 @@
   <a href="https://portfolio-website-pearl-one-53.vercel.app">Portfolio</a>
 </p>
 
-[![JanJedvaj's GitHubCard](https://githubcard.com/JanJedvaj.svg?d=MGQyssRmy66o)](https://githubcard.com/JanJedvaj/card?utm_source=github&utm_medium=readme)
+[![JanJedvaj's GitHubCard](https://githubcard.com/JanJedvaj.svg?d=DN1UJchVmNDZ)](https://githubcard.com/JanJedvaj/card?utm_source=github&utm_medium=readme)
 
 ## About me
 
